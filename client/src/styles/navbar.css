@@ -1,0 +1,10 @@
+.appBar {
+    border-radius: 15;
+    margin: 30px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    border: 2px solid black;
+}
